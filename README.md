@@ -22,7 +22,7 @@
 - 🔭 Currently working on: `No project for now`
 - 👯 Looking to collaborate on: `Building a startup`
 - 💬 Ask me about: `Tech Related`
-- ⚡ Fun fact: `I like Playing Video Games`
+- ⚡ Fun fact: `My love for Tech came from video games`
 
 ---
 
