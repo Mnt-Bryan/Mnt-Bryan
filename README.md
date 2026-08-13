@@ -1,5 +1,5 @@
 <h1 align="center">Hello world, I am MONET BRYAN 👋</h1>
-<h3 align="center">A Computer Science / Computer Engineering student who loves building things</h3>
+<h3 align="center">A Computer Science student who loves building things</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full-Stack+Developer;Always+Learning+New+Things;Open+to+Collaboration" alt="Typing SVG" />
@@ -61,8 +61,10 @@
 
 <p align="center">
   <a href="https://github.com/Mnt-Bryan/BLOG-API">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Mnt-Bryan&repo=BLOG-API&theme=tokyonight&hide_border=true"/>
+    <strong>BLOG-API</strong>
   </a>
+  <br/>
+  REST API for managing blog posts, built with Node.js, Express, and SQLite. Includes Swagger documentation.
 </p>
 
 ---
