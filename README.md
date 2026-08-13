@@ -6,22 +6,20 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:monet.bryan.b@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://discord.gg/myTzKCxD"><img src="https://img.shields.io/badge/Discord-0077B5?style=for-the-badge&logo=discord&logoColor=white" /></a>
+    <a href="mailto:monet.bryan.b@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://discord.gg/T9Ak4p4S"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
 ---
 
 ###  About Me
 
-- 🎓 Currently studying **Computer Science / Computer Engineering**
-- 💻 Passionate about **software development**, **algorithms**, and **problem solving**
-- 🌱 Currently learning: `Git & Github`
-- 🔭 Currently working on: `No project for now`
-- 👯 Looking to collaborate on: `Building a startup`
-- 💬 Ask me about: `Tech Related`
+- 🎓 Currently studying **Computer Science**
+- 💻 Building my skills in **Web & Mobile Development**, heading towards **Data Science**
+- 🌱 Currently learning: `HTML, CSS & JavaScript fundamentals`
+- 🔭 Currently building: `BLOG-API - a REST API for blog management`
+- 👯 Looking to collaborate on: `web/mobile projects and beginner-friendly open source`
+- 💬 Ask me about: `Web Dev, Backend APIs, or breaking into tech from Cameroon`
 - ⚡ Fun fact: `My love for Tech came from video games`
 
 ---
@@ -62,11 +60,8 @@
 ### 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Mnt-Bryan/project-one">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Mnt-Bryan&repo=project-one&theme=tokyonight&hide_border=true"/>
-  </a>
-  <a href="https://github.com/Mnt-Bryan/project-two">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Mnt-Bryan&repo=project-two&theme=tokyonight&hide_border=true"/>
+  <a href="https://github.com/Mnt-Bryan/BLOG-API">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Mnt-Bryan&repo=BLOG-API&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
 
