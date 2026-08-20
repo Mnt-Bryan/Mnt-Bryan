@@ -17,7 +17,7 @@
 - 🎓 Currently studying **Computer Science**
 - 💻 Building my skills in **Web & Mobile Development**, heading towards **Data Science**
 - 🌱 Currently learning: `HTML, CSS & JavaScript fundamentals`
-- 🔭 Currently building: `BLOG-API - a REST API for blog management`
+- 🔭 Currently building: `Getting started with freeCodeCamp — next project coming soon`
 - 👯 Looking to collaborate on: `web/mobile projects and beginner-friendly open source`
 - 💬 Ask me about: `Web Dev, Backend APIs, or breaking into tech from Cameroon`
 - ⚡ Fun fact: `My love for Tech came from video games`
