@@ -2,7 +2,7 @@
 <h3 align="center">A Computer Science student who loves building things</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Software+Developer;Always+Learning+New+Things;Open+to+Collaboration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Software+Developer;Always+Learning+New+Things;Open+to+Collaboration;Software+Engineer" alt="Typing SVG" />
 </p>
 
 <p align="center">
