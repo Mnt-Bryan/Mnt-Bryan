@@ -15,9 +15,9 @@
 ###  About Me
 
 - 🎓 Currently studying **Computer Science**
-- 💻 Building my skills in **Web & Mobile Development**, heading towards **Data Science**
+- 💻 Building my skills in **Web & Mobile Development**, heading towards **Software Engineering**
 - 🌱 Currently learning: `HTML, CSS & JavaScript fundamentals`
-- 🔭 Currently building: `Getting started with freeCodeCamp — next project coming soon`
+- 🔭 Currently building: `Getting started with new skills — next project coming soon`
 - 👯 Looking to collaborate on: `web/mobile projects and beginner-friendly open source`
 - 💬 Ask me about: `Web Dev, Backend APIs, or breaking into tech from Cameroon`
 - ⚡ Fun fact: `My love for Tech came from video games`
